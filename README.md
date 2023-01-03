@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About project
+## About the project
 
 Repository created in order to show how we can create a front-end application with reusable components.
 
